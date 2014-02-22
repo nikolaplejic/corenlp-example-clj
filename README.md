@@ -2,6 +2,10 @@
 
 ...in which I play around with Stanford CoreNLP and try to get it up & running in Clojure.
 
+From the [Stanford CoreNLP website](nlp.stanford.edu/software/corenlp.shtml):
+
+> Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize dates, times, and numeric quantities, and mark up the structure of sentences in terms of phrases and word dependencies, and indicate which noun phrases refer to the same entities.
+
 **Note:** This will download both CoreNLP and the models it needs to do its magic, which is approx. 200 MB of data.
 
 ## Usage
