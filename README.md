@@ -38,6 +38,6 @@ The output of the function is a pretty-printed:
 
 ## License
 
-CoreNLP is distributed under GPL v2+.  This example follows its licencing and is:
+CoreNLP is distributed under GPL v2+.  This example follows its licensing and is:
 
 Distributed under the [GNU General Public License](http://www.gnu.org/licenses/gpl-2.0.html) (v2 or later).
